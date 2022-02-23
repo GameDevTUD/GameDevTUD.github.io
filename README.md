@@ -5,7 +5,8 @@ Cyborg Way - is an organization whose aim is to accelerate the emergence of cybe
 Welcome to our website https://cyborgway.org.
 
 The repository is a part of the [Cyborg Way Organization](https://github.com/cyborgway-org). This project and everyone participating in it is governed by the [Code of Conduct](CODE_OF_CONDUCT.md).
-
+ 
+ 
 ## Contributing
 
 Your contributions support our community. Contact us to receive donation tokens.
