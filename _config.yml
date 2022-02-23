@@ -1,6 +1,8 @@
 theme: jekyll-theme-cayman
 include: [".well-known"]
 
+repository: GameDevTUD/jekyll-test
+
 # Plugins
 plugins:
   - jekyll-multiple-languages-plugin
