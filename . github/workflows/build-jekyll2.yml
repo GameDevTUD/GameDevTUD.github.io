@@ -1,0 +1,16 @@
+name: Build Jekyll 2
+on:
+  push:
+    branches:
+      - master  # Here source code branch is `master`, it could be other branch.
+jobs: 
+  Build Jekyll Test:
+    runs-on: jekyll/jekyll:4
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+     
+      - name: Create Webpage
+        run: |
+          jekyll serve --verbose
+        
