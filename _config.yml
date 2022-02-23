@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
 include: [".well-known"]
 
-repository: GameDevTUD/jekyll-test
+repository: GameDevTUD/gamedevtud.github.io
 
 # Plugins
 plugins:
